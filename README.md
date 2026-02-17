@@ -1,14 +1,13 @@
 # Aim: To study while loop in python.
 ## Theory:
-Types of loops: for, while, nested.
-
-A while loop in Python is a control flow statement that allows a block of code to be executed repeatedly as long as a given condition is True.
-Loop condition must eventually become False.
-If the condition never becomes False, it creates an infinite loop.
-digit = n%10
-rev = rev*10 + digit
-n //= 10 ..... This reverses a number.
-To reverse an element we use: rev = st[::-1] .
+ Types of loops: for, while, nested.
+ A while loop in Python is a control flow statement that allows a block of code to be executed repeatedly as long as a given condition is True.
+ Loop condition must eventually become False.
+ If the condition never becomes False, it creates an infinite loop.
+ digit = n%10
+ rev = rev*10 + digit
+ n //= 10 ..... This reverses a number.
+ To reverse an element we use: rev = st[::-1] .
 
 ## Algorithm:
 1. Print numbers 1 to n:
