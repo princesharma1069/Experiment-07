@@ -1,6 +1,7 @@
 # Aim: To study while loop in python.
 ## Theory:
 Types of loops: for, while, nested.
+
 A while loop in Python is a control flow statement that allows a block of code to be executed repeatedly as long as a given condition is True.
 Loop condition must eventually become False.
 If the condition never becomes False, it creates an infinite loop.
